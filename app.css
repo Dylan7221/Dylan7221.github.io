@@ -10,7 +10,7 @@ header {
   background: url("https://upload.wikimedia.org/wikipedia/commons/6/61/WINTER_08-09_208_wiki.jpg");
   background-size: cover;
     }
-.header-links {
+.links {
 	padding: 10px 10px 10px 10px;
       	background: rgba(0,0,0,0.5);
 }
